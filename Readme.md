@@ -53,7 +53,7 @@ ___
 ## Локальная установка приложения
 1. Склонируйте репозиторий:
 ```bash
-git clone https://github.com/Iv-EN/course_work_5.git
+[git clone https://github.com/Iv-EN/search_for_vacancies_on_hh.ru.git
 ```
 2.  Создайте и активируйте виртуальное пространство:
 ```bash
